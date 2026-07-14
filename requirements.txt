@@ -1,4 +1,6 @@
 Flask
-pandas
-xlsxwriter
 gunicorn
+pandas
+openpyxl
+xlsxwriter
+numpy
